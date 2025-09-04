@@ -77,6 +77,5 @@ Data is positively skewed; log transformation helps normalization.
 
 task_02_DA.ipynb → Jupyter Notebook with code and analysis
 
-task_02_DA.pdf → PDF report (exported notebook)
 
 README.md → Documentation of workflow
